@@ -1,0 +1,772 @@
+{
+    "type": "FeatureCollection",
+    "name": "Stratford Festival Accommodations",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Chisholm House/ The Chisholms in Stratford B&B",
+                "address1": "310 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H5",
+                "phone": "519.273.6813",
+                "textboxcopy": "5 STARS. Delight in a Classic Stratford Victorian, welcoming Verandah, tasteful Bed-sitting rooms & Ensuites (in-rm A/C control/tv/wifi/parking, 1st flr avail). A short walk to All Theatres. ‘Scrumptious’ & ‘Gourmet’ 3 course Breakfast. License #2024-42",
+                "pricerange1": "$$$",
+                "pricerange2": "- $$$$",
+                "email": "info@thechisholmsinstratford.com",
+                "website": "http://www.thechisholmsinstratford.com",
+                "address": "310 Ontario Street, Stratford, ON N5A 3H5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.973738,
+                    43.371396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Ambassador B&B and Inn Next Door",
+                "address1": "266 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H5",
+                "phone": "519.279.6108",
+                "textboxcopy": "Twin houses built in 1923 in the heart of Stratford. Each house has four spacious rooms and four luxurious suites with ensuite bathrooms, A/C, WIFI and free parking. License #2024-010.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "pengfuyang@gmail.com",
+                "website": "http://www.ambassadorbbstratford.com",
+                "address": "266 Ontario Street, Stratford, ON N5A 3H5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.975356,
+                    43.371422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Riverwalk Bed & Breakfast",
+                "address1": "176 Elizabeth Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 4Z3",
+                "phone": "519.273.2166",
+                "textboxcopy": "Riverwalk is a recently renovated 1905, 3-storey Dutch colonial home, located near downtown. It has kept its turn-of-the-century charm as well as providing modern conveniences. All guest rooms are located on the second floor.",
+                "pricerange1": "$$",
+                "email": "general@riverwalkbb.ca",
+                "website": "http://www.riverwalkbb.ca",
+                "address": "176 Elizabeth Street, Stratford, ON N5A 4Z3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.977643,
+                    43.37688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Crown House Bed & Breakfast",
+                "nameinad": "Lykke Brandemark",
+                "address1": "61 Douglas Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5P3",
+                "phone": "519.271.7146",
+                "textboxcopy": "Crown House is located 3 blocks from downtown/Avon Theatre and 3 blocks from the Tom Patterson Theatre. Three upstairs ensuite rooms, each with king or twin beds, ensuite bath, A/C and fridge. One ground-floor ensuite room with private entrance, barrier free. Three common rooms upstairs: a fully equipped guest kitchen, a dining/relaxing/TV room and a quiet reading/work room. Extended continental breakfast buffet. On-site parking. Wi-Fi. Two persons $197.00 plus HST & MAT Tax. Pay by Credit, Debit, Cash or Cheque. License #2024-44.",
+                "pricerange1": "$$",
+                "email": "crownhousebb@gmail.com",
+                "website": "http://bbcanada.com/crownhousebb",
+                "address": "61 Douglas Street, Stratford, ON N5A 5P3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98811619144071,
+                    43.372467231178824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Caledonia House",
+                "address1": "20 Caledonia Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5W5",
+                "phone": "519.271.0377",
+                "textboxcopy": "1872 mansion, park-like setting, 10-minute walk downtown. We have a large guest lounge, central air, wireless internet and pool. All bedrooms have ensuite baths. Enjoy a full-service breakfast. Non-smoking.",
+                "pricerange1": "$$$",
+                "email": "caledoniahousestratford@gmail.com",
+                "website": "http://www.caledoniahouse.com",
+                "address": "20 Caledonia Street, Stratford, ON N5A 5W5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.985394,
+                    43.374557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Allison's Brunswick House",
+                "nameinad": "Gay Allison and Geoff Hancock",
+                "address1": "109 Brunswick Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3L9",
+                "phone": "519.271.4546",
+                "textboxcopy": "Unique downtown literary B&B in 1857 home. Photo-gallery of writers, books, piano, art and antiques. Full breakfast, large verandah and parking. Central air. Shared baths. Twins, doubles, large family room. Hosts: published writers and poet. License #2024-25",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "brunswik@cyg.net",
+                "website": "http://www.brunswickhouse.ca",
+                "address": "109 Brunswick Street, Stratford, ON N5A 3L9, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.978172,
+                    43.369849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Bed & Breakfast",
+                "businessname": "Kildonan House, EstD. 1867",
+                "address1": "71 Kirk Street",
+                "city": "Clinton ON",
+                "postalcode": "N0M 1L0",
+                "phone": "519.482.1163",
+                "textboxcopy": "Discover historic charm at Kildonan House Estate, an 1867 gem in Huron County. Indulge in uniquely styled suites, each boasting modern ensuites. Relax by the saltwater pool, a tranquil oasis amidst rich history.",
+                "pricerange1": "$$$$",
+                "email": "inquiries@kildonanhouse.com",
+                "website": "http://www.kildonanhouse.com",
+                "address": "71 Kirk Street, Central Huron, ON N0M 1L0, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.5360362,
+                    43.6132516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Hoco Hotel Collection, The Windsor Hotel",
+                "address1": "23 Albert Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3K2",
+                "phone": "519.272.2581",
+                "textboxcopy": "Blending Victorian charm with a modern style, our 19th-century downtown hotel is a short walk to the Avon, Studio, and Tom Patterson Theatre. Enjoy refurbished rooms, Italian toiletries, Nespresso, a one-time welcome amenity with soft drinks, and a daily continental breakfast box.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$$",
+                "email": "reservations.wh@hocohotels.com",
+                "website": "http://www.thewindsorstratford.com",
+                "address": "The Windsor Hotel, 23 Albert Street, Stratford, ON N5A 3K2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9814048,
+                    43.3704449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Hoco Hotels Collection, The Stratford Hotel",
+                "address1": "107 Erie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2M5",
+                "phone": "519.272.2581",
+                "textboxcopy": "Refreshed in 2025, our downtown 12-room boutique hotel built in 1875 is a 5-minute walk to the Avon and Studio Theatre. Blending classic design with modern touches, enjoy Italian toiletries, Nespresso, a one-time welcome amenity with soft drinks, and a daily continental breakfast box.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$$",
+                "email": "reservations.wh@hocohotels.com",
+                "website": "http://www.thestratfordhotel.ca",
+                "address": "107 Erie Street, Stratford, ON N5A 2M5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98404381697752,
+                    43.369667139060496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Hughson Hall",
+                "nameinad": "Debra and George Mackie",
+                "address1": "220 Hibernia Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5V7",
+                "phone": "519.305.0780",
+                "textboxcopy": "1875 Victorian-Italianate mansion. Rated 5 STAR Tripadvisor #1 award-winning Luxury B&B. Walkable to downtown & theatres. Large elegant guest rooms/ensuites/ 2 parlours/Juliet balcony/butler’s pantry/parking/Victorian gardens/personal AC&Heat/WiFi/smartTV/smoke&pet free. Arrival wine & cheese, 3 course. Gourmet breakfast. License #2024-14.",
+                "pricerange1": "$$$$",
+                "email": "info@hughsonhall.com",
+                "website": "http://www.hughsonhall.com",
+                "address": "220 Hibernia Street, Stratford, ON N5A 5V7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.992743,
+                    43.3772655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Best Western Premier Collection Mercer Hotel Downtown",
+                "address1": "104-108 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H2",
+                "phone": "519.271.9202",
+                "textboxcopy": "A 14-room boutique hotel in the downtown core. Newly renovated rooms. Located on the 2nd and 3rd floors of a historic building. No elevator. Street level boasts one of Stratford’s trendiest restaurants. On-site parking.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$$",
+                "email": "mercer@mercerhallinn.com",
+                "website": "http://mercerhall.ca",
+                "address": "104 Ontario Street, Stratford, ON N5A 3H2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98161,
+                    43.371552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Perth County Inn",
+                "address1": "4 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3G8",
+                "textboxcopy": "Perth County Inn is Stratford’s boutique hotel in the centre of the city. No two rooms are alike, each with character and modern comforts. The Inn has a Cuban cocktail bar, cafe and food shop, and a yummy bakery. Downtown. Parking included.",
+                "pricerange1": "$$$",
+                "pricerange2": "- $$$$",
+                "email": "booking@innstratford.com",
+                "website": "http://www.innstratford.com",
+                "address": "4 Ontario Street, Stratford, ON N5A 3G8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.984182,
+                    43.371667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Ariel's Boutique B&B",
+                "address1": "289 Cobourg Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3G6",
+                "phone": "519.272.2961",
+                "textboxcopy": "5 STAR-RANKED #3. Elegant Heritage property steps from Festival Theatre. King, Queen, Twin - ensuites. Gourmet breakfast. TV/WIFI/AC/Fans. Porch, deck, parking. Stay where the little things count! License #B00020.",
+                "pricerange1": "$$$$",
+                "email": "info@ariels.ca",
+                "website": "http://ariels.ca",
+                "address": "289 Cobourg Street, Stratford, ON N5A 3G6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.969593,
+                    43.371935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "BEST WESTERN PLUS THE ARDEN PARK HOTEL",
+                "address1": "552 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3J3",
+                "phone": "519.275.2936",
+                "textboxcopy": "Offering large newly renovated guest rooms & suites. Indoor pool, hot tub & fitness centre. Enjoy a fresh new dining experience with daily features & Sunday brunch. Free ample parking. Located just minutes from the Festival Theatre, downtown core & Stratford’s east end.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "reservations@ardenpark.ca ",
+                "website": "http://www.ardenpark.ca",
+                "address": "552 Ontario Street, Stratford, ON N5A 3J3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.964232,
+                    43.370987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Birmingham Manor Bed and Breakfast",
+                "nameinad": "Elena and Dom Tassielli",
+                "address1": "240 Birmingham Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2T5",
+                "phone": "519.273.6545",
+                "textboxcopy": "Luxury Victorian mansion. Spacious & elegant rooms with modern amenities, parlour, verandah & gardens. Exquisite breakfast with vegan & GF options. WiFi, A/C, parking, smoke/pet free. #1 B&B on Tripadvisor & Hall of Fame award winner. License B00023.",
+                "pricerange1": "$$$",
+                "email": "info@birminghammanor.com",
+                "website": "http://birminghammanor.com",
+                "address": "240 Birmingham Street, Stratford, ON N5A 2T5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.99111834666667,
+                    43.36491925333333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Rodeway Inn & Conference Centre",
+                "address1": "1144 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6Z3",
+                "phone": "519.273.1150",
+                "textboxcopy": "Offering 180 spacious rooms and meeting facilities in a quiet, peaceful environment, within walking distance to Stratford Mall. Rooms feature a TV, air conditioning, hair dryer, coffee maker with complimentary coffee, fridge, microwave, and fast, free WiFi. Enjoy our heated indoor pool, dry heat sauna, fitness center, and ample free parking, with on-site EV charging stations. Pets welcome (dogs only). Just a short drive from all the theatres. We also have designated handicapped parking and spaces for buses and large trucks.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$$",
+                "email": "rodewayinnstratford@gmail.com",
+                "website": "http://https://www.choicehotels.com/en-ca/ontario/stratford/quality-inn-hotels/cnb51",
+                "address": "1144 Ontario Street, Stratford, ON N5A 6Z3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.945686,
+                    43.370896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "The Parlour Inn",
+                "address1": "101 Wellington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2L4",
+                "phone": "519.271.2772",
+                "textboxcopy": "Built in 1871, The Parlour Inn is located one block from the Avon theatre. 28 warm and contemporary guestrooms and the 240-seat dining room create a historic oasis in beautiful downtown Stratford.",
+                "pricerange1": "$",
+                "pricerange2": "- $$",
+                "email": "pifd@vintage-hotels.com",
+                "website": "http://www.theparlour.ca",
+                "address": "101 Wellington Street, Stratford, ON N5A 2L4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98320527142857,
+                    43.36904037142857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Stamp House",
+                "address1": "136 Hibernia Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5V4",
+                "phone": "519.271.9184",
+                "textboxcopy": "Welcome to our stately, 1894 home, where family have lived since 1903! Our chef-created, locally sourced breakfasts build a wonderful camaraderie around the dining room table. The house has a warm ambience with ensuite rooms. We are located within walking distance to all theatres. License B00030.",
+                "pricerange1": "$$",
+                "email": "stay@stamphouse.ca",
+                "website": "http://www.stamphouse.ca",
+                "address": "136 Hibernia Street, Stratford, ON N5A 5V4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.989731,
+                    43.375679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Traveller's Motel",
+                "address1": "784 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3K1",
+                "phone": "519.271.3830",
+                "textboxcopy": "Twenty-four rooms with A/C, fridge, TV, microwave and phone. Walking distance to theatres, restaurants, shopping mall, golf and country club. Coffee Percolators available upon request in room. Special rates for groups and seniors. No pets. OAA.",
+                "pricerange1": "$",
+                "email": "info@travellers-motel.com",
+                "website": "http://www.travellers-motel.com",
+                "address": "784 Ontario Street, Stratford, ON N5A 3K1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.95424,
+                    43.371019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "A Garden Stroll Bed & Breakfast",
+                "nameinad": "Barbara, Hal & Corinne Montgomery",
+                "address1": "325 Devon Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3A2",
+                "phone": "519.271.1713",
+                "textboxcopy": "Join us for our 36th season. Get behind-the-scenes theatrical insights. Discover waterfalls, a gazebo, and picnic spots as you stroll the garden pathways. Enjoy spacious ensuite rooms and handcrafted oak furnishings. A/C, TV, fridge. Engage in lively breakfast conversations. Indulge in our indoor hot tub. License B00028.",
+                "pricerange1": "$$",
+                "email": "info@agardenstroll.ca",
+                "website": "http://www.agardenstroll.ca",
+                "address": "325 Devon Street, Stratford, ON N5A 3A2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.951047,
+                    43.374778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "North Of Avon B&B Suites",
+                "nameinad": "A.J. Ashley",
+                "address1": "36 Waterloo Street North",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5H5",
+                "phone": "519.400.9819",
+                "textboxcopy": "Unwind in a lovely two-room suite in our century home! Steps from theatres and downtown, each suite features an ensuite bathroom, den and kitchenette. Enjoy a scrumptious breakfast each morning, prepared by our friendly host. License #B00001.",
+                "pricerange1": "$$$",
+                "email": "northofavon@gmail.com ",
+                "website": "http://www.northofavon.com",
+                "address": "36 Waterloo Street North, Stratford, ON N5A 5H5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98045,
+                    43.37559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Majer's Motel",
+                "address1": "2970 Ontario Street, East",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6S5",
+                "phone": "519.271.2010",
+                "textboxcopy": "Thirty-one tastefully well-appointed non-smoking rooms with fridge, flatscreen TV, hair dryers, A/C, free WiFi, free parking and ev charger on site.  Enjoy quiet atmosphere, outdoor pool and gazebo in private country setting with spacious grounds. No pets.",
+                "pricerange1": "$",
+                "email": "info@majersmotel.com",
+                "website": "http://www.majersmotel.com",
+                "address": "2970 Ontario Street, Stratford, ON N5A 6S5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.942719,
+                    43.3707411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Foster's Inn",
+                "address1": "111 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1X2",
+                "phone": "519.271.1119",
+                "textboxcopy": "A boutique hotel in the heart of downtown.  Closest hotel to the Avon & Studio theatres.  Boasting airy spacious rooms with high ceilings, an abundance of charm and an elevator. Long-standing much-loved restaurant and vibrant bar on street level boasting a cozy neighborhood vibe.",
+                "pricerange1": "$$$",
+                "pricerange2": "- $$$$",
+                "email": "info@fostersinn.com",
+                "website": "http://www.fostersinn.com",
+                "address": "111 Downie Street, Stratford, ON N5A 1X2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981058,
+                    43.368885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Suburban Motel",
+                "address1": "2808 Ontario Street East, Line 34",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6S5",
+                "phone": "519.271.9650",
+                "textboxcopy": "Located on the edge of town in a lovely country setting a short drive from the theatres. We offer 25 well appointed rooms in a quiet, mature atmosphere. Scenic farmland provides a backdrop to the property, pool and gardens. Best rates and inventory by reserving directly.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "suburbanmotel@rogers.com",
+                "website": "http://www.suburbanmotel.com",
+                "address": "2808 Ontario Street, Perth East, ON N5A 6S5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.913664,
+                    43.370832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Hotel",
+                "businessname": "Bentley's Inn Bar And Restaurant",
+                "address1": "99 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H1",
+                "phone": "519.271.1121",
+                "textboxcopy": "Enjoy Bentley's Inn newly renovated two-storey executive suites. Each suite is designed with a Scandinavian flair, combining sleek, modern aesthetics with cozy, inviting touches. Wet bar, fridge, microwave, fireplace, free Wi-Fi & free parking just steps from the city centre and all theatres.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "info@bentleysbarinn.com ",
+                "website": "http://www.bentleysbarinn.com",
+                "address": "99 Ontario Street, Stratford, ON N5A 3H1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981445,
+                    43.371337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "River Merchant Inn & Illume Spa",
+                "address1": "31-35 York St",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3G8",
+                "phone": "647.607.1030",
+                "textboxcopy": "Romance meets history in your beautifully decorated private retreat on the bank of the picturesque Avon River. A one-of-a-kind experience using archival photos and memorabilia from the original uses of this unique downtown heritage building.",
+                "pricerange1": "$$$",
+                "pricerange2": "- $$$$",
+                "email": "sales@kressleygroup.com",
+                "website": "http://rivermerchantinn.com",
+                "address": "33 York Street, Stratford, ON N5A 3G8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9833876,
+                    43.3718946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "Mornington Rose Guest House",
+                "address1": "240 Mornington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5G5",
+                "phone": "519.275.2626",
+                "textboxcopy": "Centrally located century home. 4 elegant ensuite guest rooms/TV/fridge/microwave. Guest lounge, veranda, gazebo with fire pit. 3 breakfast choices, A/C, smoke-free, WiFi, parking, Level 2 EV charger. Open all year. License #B00022.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "info@morningtonrose.com",
+                "website": "http://morningtonrose.com",
+                "address": "240 Mornington Street, Stratford, ON N5A 5G5, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.97938462857142,
+                    43.377340119047616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "Sally's Place",
+                "nameinad": "Barb Spears",
+                "address1": "295 & 299 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 7X6",
+                "phone": "519.272.2383",
+                "textboxcopy": "Lavishly furnished apartment units, two locations, all amenities, self-serve breakfast, walk to theatres and downtown, on-site parking, very private. Your home in Stratford is open all year round. License S00028 & S00031.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$$",
+                "email": "sally@sallysplace.com",
+                "website": "http://www.sallysplace.com",
+                "address": "295 Ontario Street, Stratford, ON N5A 4H4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9743192,
+                    43.3710492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "Rosehurst Stratford",
+                "address1": "131 Front Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 4H3",
+                "phone": "519.273.2832",
+                "textboxcopy": "Private 1896 renovated 2Bed/2 Bath, entire licensed BnB & huge garden all to yourself. Sleeps 4-6. Park & walk from this central location or stay in, enjoy and entertain. Open, bright and spacious. #7 BnB on Trip Advisor.",
+                "pricerange1": "$$$",
+                "pricerange2": "- $$$$",
+                "email": "rosehurststratford@gmail.com",
+                "website": "http://rosehurststratford.ca",
+                "address": "131 Front Street, Stratford, ON N5A 4H3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.973289,
+                    43.371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "Grand Trunk Guest House & Gallery",
+                "nameinad": "Marilyn Price",
+                "address1": "116 Centre Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1E6",
+                "phone": "519.590.4442",
+                "textboxcopy": "Avant-garde & elegant style is creatively captured in our fully renovated 1920s home. Indulge in luxury, original art & history, your private 2 bedroom/2-bathroom retreat awaits! A short walk to theatres, restaurants and shops. TV/WIFI/AC/parking, smoke/pet free. License B00017.",
+                "pricerange1": "$$$$",
+                "email": "info@grandtrunkguesthouse.com",
+                "website": "http://grandtrunkguesthouse.com",
+                "address": "116 Centre Street, Stratford, ON N5A 1E6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.993824,
+                    43.369787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "FiveStratford",
+                "address1": "5 Douglas Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 5P3",
+                "phone": "519.588.2447",
+                "textboxcopy": "A whimsical two bedroom suite located downtown overlooking the Avon River. Steps to all the city has to offer. Private two bedroom, two bathroom. All amenities. On-site parking. Your interlude of wonder is here. License #B00003.",
+                "pricerange1": "$$$$",
+                "email": "fivestratford@gmail.com",
+                "website": "http://fivestratford.com",
+                "address": "5 Douglas Street, Stratford, ON N5A 5P3, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9860399818182,
+                    43.37276832727272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Apartment",
+                "businessname": "The Penrose Suites",
+                "address1": "725 Queen Street East",
+                "city": "St. Marys ON",
+                "postalcode": "N4X 1G2",
+                "phone": "519.301.7673",
+                "textboxcopy": "The Penrose offers nine luxury suites in a European Modern style with plush bedding and serene spaces for restful sleep. Each suite includes a kitchenette, separate bedroom(s), open living area, and private veranda with golf course views.",
+                "pricerange1": "$$$$",
+                "email": "info@thepenrose.ca",
+                "website": "http://www.thepenrose.ca",
+                "address": "725 Queen Street East, St. Marys, ON N4X 1G2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.1176031,
+                    43.2621508
+                ]
+            }
+        }
+    ]
+}

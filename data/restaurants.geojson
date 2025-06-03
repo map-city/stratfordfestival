@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "name": "Stratford Festival Restaurants",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "The Starlight",
+                "address1": "64 Wellington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2L2",
+                "textboxcopy": "One of Air Canada's 2024 Best New Restaurants, our menu is perfect for sharing pre/post theatre paired with a cocktail or local brew from our playful drinks list. Located steps away from Avon Theatre, here motel chic meets mid-century modern & dinner turns into late nights. Live music on weekends. Reservations and walk ins welcome.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "meganjones@thestarlightstratford.com",
+                "website": "http://thestarlightstratford.com",
+                "address": "64 Wellington Street, Stratford, ON N5A 2L2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.983264,
+                    43.369619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "The Relic Lobby Bar",
+                "address1": "6 Ontario St.",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3G8",
+                "phone": "519.273.4763",
+                "textboxcopy": "A friendly neighborhood cocktail bar with a classic feel and Cuban inspired design serving expertly prepared cocktails. Open door policy, no resos. Tue-Sat 4p-12/1a. Also host of The Lost Key Speakeasy Fri/Sat 8p-12a, follow the red light.",
+                "pricerange1": "$",
+                "pricerange2": "- $$",
+                "email": "therelic@therelicbar.ca",
+                "website": "http://therelicbar.ca",
+                "address": "6 Ontario Street, Stratford, ON N5A 3G8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98411,
+                    43.37168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Stratford Festival Dining",
+                "address1": "55 Queen Street and 111 Lakeside Drive",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6V2",
+                "phone": "519.271.4040",
+                "textboxcopy": "Avoid the line-up! Pre-order your refreshments for any of our theatre venues by contacting our box office or booking online. We also offer house-made food for all to enjoy – drop by the Festival for a sandwich & salad or the Tom Patterson Theatre Café for a light meal or drink on the Alonzo Terrace overlooking the Avon River. Pre-order a picnic to pick up at the Festival or Tom Patterson Theatres and enjoy at your leisure. Our chefs look forward to welcoming you!",
+                "pricerange1": "$",
+                "pricerange2": "- $$",
+                "email": "events@stratfordfestival.ca",
+                "website": "http://www.stratfordfestival.ca/Visit/OnSiteAmenities/",
+                "address": "111 Lakeside Drive, Stratford, ON N5A 6V2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.97941,
+                    43.373368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Pazzo Pizzeria",
+                "address1": "70 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H2",
+                "phone": "519.273.6666",
+                "textboxcopy": "Welcome to Pazzo Pizzeria, nestled in Stratford's oldest cellar, where our cozy, family-friendly restaurant offers delicious thin-crust pizzas, pasta, antipasti, and fresh salads, all prepared with care and quality ingredients. Enjoy quick and friendly service in a welcoming atmosphere that’s perfect for everyone. As a beloved family-owned and operated restaurant for over 25 years, we take pride in being a mainstay in the community. Our spacious dining room easily accommodates groups, making it an ideal spot for any occasion. Join us for a memorable dining experience!",
+                "pricerange1": "$$",
+                "website": "http://www.pazzo.ca",
+                "address": "Pazzo, 70 Ontario Street, Stratford, ON N5A 7Y4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.982069,
+                    43.3716021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Bentley's Inn Bar And Restaurant",
+                "address1": "99 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H1",
+                "phone": "519.271.1121",
+                "textboxcopy": "Bentley's is the place for beer, house-made food and a casual atmosphere. Relax in a booth or meet up with some friends at the bar. Enjoy people-watching on our main-street patio or drop by after theatre for dessert. Open daily!",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "info@bentleysbarinn.com ",
+                "website": "http://www.bentleysbarinn.com",
+                "address": "99 Ontario Street, Stratford, ON N5A 3H1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981445,
+                    43.371337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Foster's Inn",
+                "address1": "111 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1X2",
+                "phone": "519.271.1119",
+                "textboxcopy": "A perfectly placed restaurant steps from the Avon Theatre, Foster’s has a friendly, efficient environment where our chefs expand our focus on great steaks with refreshing touches to classical dishes made with local ingredients. Open seven days a week, breakfast, lunch and dinner. Drop by our patio after theatre. STA.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "info@fostersinn.com",
+                "website": "http://www.fostersinn.com",
+                "address": "111 Downie Street, Stratford, ON N5A 1X2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981058,
+                    43.368885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Annie’s Seafood Restaurant",
+                "address1": "698 Ontario Street",
+                "city": "Stratford  ON",
+                "postalcode": "N5A 3J7",
+                "phone": "519.271.8100",
+                "textboxcopy": "The region’s finest in fish & chips since 1997, with an East Coast and UK influence. Colossal onion rings, signature poutines, seafood dinners and a full gluten-free menu (GFFP certification per National Celiac Association).",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "anniesseafoodstratford@gmail.com",
+                "website": "http://www.anniesseafood.ca",
+                "address": "698 Ontario Street, Stratford, ON N5A 3J7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.958218,
+                    43.371092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "The Parlour Inn Restaurant",
+                "address1": "101 Wellington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2L4",
+                "phone": "519.271.2772",
+                "textboxcopy": "Exceptional cuisine and award-winning customer service located in the heart of downtown. Creative and innovative twists on classic fare with quality and freshness. A casual lounge and patio complement our dining experience.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "pifd@vintage-hotels.com",
+                "website": "http://www.theparlour.ca",
+                "address": "101 Wellington Street, Stratford, ON N5A 2L4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98320527142857,
+                    43.36904037142857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "The Common",
+                "address1": "80 Wellington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2L2",
+                "phone": "519.271.0999",
+                "textboxcopy": "An eclectic restaurant in the heart of Stratford Ontario, with a great hidden patio to wine and dine. From Chef Tim Otsuki, a fresh focus on elevated comfort food from his travels around the world. #EATWITHOUTBORDERS",
+                "pricerange1": "$$$",
+                "email": "Commonrestaurant@gmail.com ",
+                "website": "http://www.thecommonstratford.com",
+                "address": "80 Wellington Street, Stratford, ON N5A 2L2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98326,
+                    43.36944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Fellini's - Classic Italian Cucina",
+                "address1": "107 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H1",
+                "phone": "519.271.3333",
+                "textboxcopy": "Stratford's favourite Italian restaurant is celebrating our 32nd season. Serving lunch and dinner daily with classic Italian dishes! Daily menus of stone-oven pizzas and calzones, fresh pastas and salads, Italian entrées such as chicken parmigiana and grilled salmon. In a cucina-style friendly, casual service and atmosphere. Salute!",
+                "pricerange1": "$",
+                "pricerange2": "- $$$",
+                "email": "info@fellinisstratford.com",
+                "website": "http://www.fellinisstratford.com",
+                "address": "107 Ontario Street, Stratford, ON N5A 3H1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981242,
+                    43.371331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Bluebird Restaurant",
+                "address1": "30 Ontario St.",
+                "city": "Stratford ON",
+                "postalcode": "N5A3G8",
+                "phone": "519.271.2255",
+                "textboxcopy": "A bustling neighbourhood spot for lunch or dinner in the heart of  downtown Stratford. Bistronomy inspired menu, cool cocktails, great patio, approachable wines and hospitality focused.",
+                "pricerange1": "$$",
+                "pricerange2": "- $$$",
+                "email": "bluebirdstratford@gmail.com",
+                "website": "http://www.bluebirdrestaurant.ca",
+                "address": "30 Ontario Street, Stratford, ON N5A 3G8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.983518,
+                    43.371666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Cafe Bouffon",
+                "address1": "70 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H2",
+                "phone": "519.273.6666",
+                "textboxcopy": "Join us at our charming French café, the go-to spot for brunch lovers in Stratford! Our à la carte menu features delightful eggs Benedict with signature crispy poached eggs, fresh salads, and irresistible pastries every Saturday and Sunday. Lunch available throughout the week. Experience the best of French café culture in a vibrant atmosphere that captures the heart of our city. As evening falls, our space transforms into one of Stratford's most refined dining rooms, featuring our unique take on classic French cuisine with a curated selection of cocktails and wines, housed in Stratford's oldest wine cellar. Formerly Pazzo Taverna. Visit our website to explore our menus and seasonal offerings!",
+                "pricerange1": "$",
+                "pricerange2": "- $$",
+                "website": "http://www.cafebouffon.ca",
+                "address": "Pazzo, 70 Ontario Street, Stratford, ON N5A 7Y4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.982069,
+                    43.3716021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "Anna Mae's Bakery & Restaurant",
+                "address1": "4060 Line 72",
+                "city": "Millbank ON",
+                "postalcode": "N0K 1L0",
+                "phone": "519.595.4407",
+                "textboxcopy": "As seen on the Food Network’s You Gotta Eat Here! Famous for our homestyle Mennonite food & baking. We’re family-owned & offer a variety of 19+ homemade desserts. Come try our famous Broasted Chicken! Homestyle gluten-conscious baking. Enjoy the scenic 20-min. drive!",
+                "pricerange1": "$",
+                "email": "customerservice@annamaes.ca",
+                "website": "http://www.annamaes.ca",
+                "address": "4060 Perth 72 Line, Perth East, ON N0K 0B4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.8340412,
+                    43.5716502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Restaurant",
+                "businessname": "TuttCo Queen Street Eatery",
+                "address1": "159 Queen Street East",
+                "city": "St. Marys ON",
+                "postalcode": "N4A 1C5",
+                "phone": "226.301.4919",
+                "textboxcopy": "Worth the drive to St. Marys for chef-driven, internationally inspired food and drink. Lunch and supper specials in a cozy, art-filled environment.",
+                "pricerange1": "$",
+                "pricerange2": "- $$$$",
+                "email": "atutt@tuttco.ca",
+                "website": "http://www.tuttco.ca",
+                "address": "159 Queen Street East, St. Marys, ON N4X 1B7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.14123252222223,
+                    43.25963603333334
+                ]
+            }
+        }
+    ]
+}

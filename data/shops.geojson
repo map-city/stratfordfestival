@@ -1,0 +1,476 @@
+{
+    "type": "FeatureCollection",
+    "name": "Stratford Festival Shops",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Attraction",
+                "businessname": "SpringWorks - PuppetWorks! and more",
+                "address1": "217 Wellington Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 2L7",
+                "textboxcopy": "Puppets! & Multi-disciplinary Arts! Live performances, interactive play, workshops; acclaimed international & national artists showcased in Stratford. Young’uns, their grownups and the adventurous of all ages can discover the magic at the 4th annual World in a Weekend: International Puppet Festival, July 31- August 4 and our programming throughout the year.\nFollow SpringWorksFestival for all the exciting details.",
+                "email": "email@springworksfestival.ca",
+                "website": "http://www.springworksfestival.ca",
+                "address": "217 Wellington Street, Stratford, ON N5A 2L7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.986158,
+                    43.36605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Attraction",
+                "businessname": "Theatre Vacations",
+                "address1": "6710 Drummond Road",
+                "address2": "Unit 4",
+                "city": "Niagara Falls ON",
+                "postalcode": "L2G 4P1",
+                "phone": "905.356.0884",
+                "textboxcopy": "2025 Packages! As the Stratford Festival's Official Package Partner, we provide customized travel planning. Combine theatre, meals, rooms, airport transfers and more. Call us for easy one-stop shopping and competitive pricing!",
+                "email": "sales@theatrevacations.com",
+                "website": "http://www.theatrevacations.com",
+                "address": "6710 Drummond Road, Niagara Falls, ON L2G 4P1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -79.09687,
+                    43.077858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Schneider Haus National Historic Site",
+                "address1": "466 Queen Street South",
+                "city": "Kitchener ON",
+                "postalcode": "N2G 1W7",
+                "phone": "519.742.7752",
+                "textboxcopy": "Nestled in the heart of downtown Kitchener, this vibrant public gathering space connects the past and present. Enjoy camps, gardens, hands-on activities, indoor/outdoor exhibits, special events and more! Old Haus, new stories. Available for private events. Connect with us @RWMuseumArchive.",
+                "email": "schneiderhaus@regionofwaterloo.ca",
+                "website": "http://www.schneiderhaus.ca",
+                "address": "466 Queen Street South, Kitchener, ON N2G 1W7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.49480223924112,
+                    43.444812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Art in the Park Association of Stratford",
+                "address1": "Between Front Street and North Street, along the Avon River",
+                "city": "Stratford ON",
+                "postalcode": "N4Z 1J2",
+                "phone": "519.508.0988",
+                "textboxcopy": "Stratford Art in the Park. For 50+ years and counting, located between two of the Festival’s famous theatres, our premier art show runs 10 a.m. – 5 p.m. every Wed, Sat, and Sun, weather permitting, from late May until end of Sept.",
+                "email": "advertising@artintheparkstratford.ca",
+                "website": "http://www.artintheparkstratford.ca",
+                "address": "Stratford, ON, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9818016,
+                    43.3700899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Ken Seiling Waterloo Region Museum and Doon Heritage Village",
+                "address1": "10 Huron Road",
+                "city": "Kitchener ON",
+                "postalcode": "N2P 2R7",
+                "phone": "519.748.1914",
+                "textboxcopy": "Visit Ontario’s largest community museum. Explore 12,000 years of Waterloo Region, past to present. Enjoy hands-on activities, camps, gardens, historic buildings, indoor/outdoor exhibits, special events, walking trails and more! Available for private events. Connect with us @RWMuseumArchive.",
+                "email": "waterlooregionmuseum@regionofwaterloo.ca",
+                "website": "http://www.waterlooregionmuseum.ca ",
+                "address": "10 Huron Road, Kitchener, ON N2P 2R7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.4383117,
+                    43.4020898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "McDougall Cottage Historic Site",
+                "address1": "89 Grand Ave South",
+                "city": "Cambridge ON",
+                "postalcode": "N1S 2L7",
+                "phone": "519.624.8250",
+                "textboxcopy": "Downtown Cambridge’s hidden gem! McDougall Cottage circa 1858, is a unique space to explore, with stunning murals, heritage gardens, engaging exhibits and activities for all. Connect across generations at this riverside haven. Available for private events. Connect with us @RWMuseumArchive.",
+                "email": "mcdougall@regionofwaterloo.ca",
+                "website": "http://www.mcdougallcottage.ca ",
+                "address": "89 Grand Avenue South, Cambridge, ON N1S 2L7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.317311,
+                    43.354195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Stratford-Perth Archives",
+                "address1": "4273 Line 34 (Highway 8 West)",
+                "address2": "R.R. # 5",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6S6",
+                "phone": "5192710531ext259",
+                "textboxcopy": "Welcome to Stratford-Perth Archives! Explore exhibits celebrating Stratford and Perth County's heritage. Book an appointment to work with treasures from our collections, curated just for your research interests!",
+                "email": "archives@perthcounty.ca",
+                "website": "http://www.perthcounty.ca/stratfordpertharchives",
+                "address": "Stratford-Perth Archives, 4273 Line 34 (Highway 8), Stratford, ON N5A 6S6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.0123242,
+                    43.3841049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Stratford Perth Museum",
+                "address1": "4275 Huron Road",
+                "city": "Stratford ON",
+                "postalcode": "N5A6S6",
+                "phone": "519.393.5311",
+                "textboxcopy": "Just west of Stratford. Open 10-4 daily. Don't miss To Thine Own Self costume & audio exhibit. 10 historic performances exploring gender, including Martha Henry's Prospero & S. Jackman-Torkoff's Richard II. Also home to the world's only Justin Bieber Exhibit!",
+                "website": "http://www.stratfordperthmuseum.ca",
+                "address": "Stratford, ON, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9818016,
+                    43.3700899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Canadian Baseball Hall of Fame and Museum",
+                "address1": "386 Church Street South",
+                "city": "St. Marys ON",
+                "postalcode": "N4X 1C2",
+                "phone": "519.284.1838",
+                "textboxcopy": "Our renovated and expanded 3500 sq. ft. Hall of Fame & Museum is situated on our beautiful 32 acre site that also contains baseball fields and walking trails. We are also home to the Centre for Canadian Baseball research.",
+                "email": "scott@baseballhalloffame.ca",
+                "website": "http://www.baseballhalloffame.ca",
+                "address": "386 Church Street South, St. Marys, ON N4X 0B6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.14410645074626,
+                    43.251203885074624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "Agora Gallery",
+                "address1": "100 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1W9",
+                "phone": "519.272.1221",
+                "textboxcopy": "AGORA GALLERY is Stratford's fine art gallery specializing in work by professional regional artists since 2014! Don't miss our popular Summer Exhibition featuring a diverse and exciting range of art by more than 20 talented visual artists, including Ruth Abernethy, Patsy Berton, Tom Campbell, Candida Girling, Gloria Kagawa, Chris Klein, Tanya Lyons, Eva McCauley, Edward (Teddy) Payne, John Pennoyer, Kathi Posliff, Lesley Walker-Fitzpatrick, Kim Wilkie and Anna Yuschuk to name just a few!",
+                "email": "art@agoragallery.ca",
+                "website": "http://www.agoragallery.ca",
+                "address": "100 Downie Street, Stratford, ON N5A 1W9, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981599,
+                    43.369168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Museum",
+                "businessname": "St. Marys Museum and Archives",
+                "address1": "177 Church Street South",
+                "city": "St. Marys ON",
+                "postalcode": "N4X 1B6",
+                "phone": "519.284.3556",
+                "textboxcopy": "Beautiful 1850s home built from St. Marys limestone. Twelve exhibit areas, changing displays and seasonal activities. Excellent resources for local history research. Open daily June, July, August; weekdays year-round.",
+                "email": "museum@town.stmarys.on.ca",
+                "website": "http://stmarysmuseum.ca",
+                "address": "177 Church Street South, St. Marys, ON N4X 0B6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.14116724358973,
+                    43.25513797435897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Poppin Kettle Corn",
+                "address1": "164 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1X1",
+                "phone": "226.888.8850",
+                "textboxcopy": "Pop in today to find your favourite flavour of gourmet popcorn.  We offer a wide variety of sweet and savoury gourmet popcorn hand popped in small batches.  We have the perfect snacks to satisfy your cravings!",
+                "email": "poppinkettlecorn@hotmail.com",
+                "website": "http://www.poppinkettlecorn.ca",
+                "address": "164 Downie Street, Stratford, ON N5A 1X1, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.980744,
+                    43.367993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Little Falls Crafters Market",
+                "address1": "83 Queen Street East",
+                "city": "St. Marys ON",
+                "postalcode": "N4X1B7",
+                "phone": "519.284.0433",
+                "textboxcopy": "A short drive up the road to beautiful St. Marys, with over 150 local artisans displaying their handmade items, you're sure to find something you love. Visit us to support local artistry and embrace the beauty of handmade!",
+                "email": "edenlittlefalls@gmail.com",
+                "website": "http://littlefallscraftersmarket.com",
+                "address": "83 Queen Street East, St. Marys, ON N4X 1B7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.142131,
+                    43.2594157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Chocolate Barr's Candies",
+                "nameinad": "Derek Barr",
+                "address1": "55 George St. West",
+                "address2": "5192722828",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1A6",
+                "phone": "519.272.2828",
+                "textboxcopy": "Handmade chocolates and candies. Our 22nd Year in business and we have over 170 creations to wow you! Truffles, Creams, Caramels, Minties, and gelato in the summer! SWEET! Mon. to Sat. 9am to 530pm. Sun 11am to 4pm.",
+                "email": "info@chocolatebarrs.com",
+                "website": "http://www.chocolatebarrs.com",
+                "address": "55 George Street West, Stratford, ON N5A 1A6, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9825345,
+                    43.3687567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Stratford Festival Shop",
+                "address1": "55 Queen Street and 99 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 6V2",
+                "phone": "5192714040ext2320or5580",
+                "textboxcopy": "A Theatrical Shopping Experience. Original clothing, one-of-a-kind jewelry, journals, books, pashminas, housewares and more. All purchases directly support the Stratford Festival. Two convenient locations across from the Festival Theatre and next to the Avon Theatre – or shop online.",
+                "email": "Store@stratfordfestival.ca",
+                "website": "http://www.stratfordfestival.ca/Store",
+                "address": "Dollar Haven, 55 Downie Street, Stratford, ON N5A 3L8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.9816073,
+                    43.3700274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Zenfire Pottery & Mercantile",
+                "address1": "114 Queen Street East",
+                "city": "St. Marys ON",
+                "postalcode": "N4X 1A5",
+                "phone": "519.615.6347",
+                "textboxcopy": "Welcome to Southwestern Ontario's pottery destination, Downtown St Marys! We sell an array of gorgeous handmade pottery, much of it fired in-house.  As well as locally made, unique gifts.  Come tour our inviting studio and, yes, we offer classes too!",
+                "email": "zenfirepottery@gmail.com",
+                "website": "http://zenfirepottery.ca",
+                "address": "114 Queen Street East, St. Marys, ON N4X 1B7, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -81.14269735714285,
+                    43.25921064285714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "MacLeods Scottish Shop",
+                "address1": "80 Ontario Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3H2",
+                "phone": "519.873.5850",
+                "textboxcopy": "Come in to discover unique, high-quality clothing, giftware, and food from all over Scotland, Ireland, and England. Find us in the heart of beautiful downtown Stratford, or online at scottishshop.com.",
+                "email": "info@scottishshop.com",
+                "website": "http://www.scottishshop.com",
+                "address": "80 Ontario Street, Stratford, ON N5A 3H2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.982486,
+                    43.371576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "Rhéo Thompson Candies",
+                "address1": "55 Albert Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 3K2",
+                "phone": "519.271.6910",
+                "textboxcopy": "You've seen the theatrics on stage, now discover the delicious drama of handcrafted confections at Rhéo Thompson Candies. With 152 varieties of sweets, including our infamous Mint Smoothies®, you may come for the theatre, but you will stay for the chocolate. Sample the show at Rheothompon.com.  Monday to Saturday 9:00 am to 5:30 pm, Sunday 11:00 am to 3:00 pm. (seasonal).",
+                "email": "info@rheothompson.com",
+                "website": "http://www.rheothompson.com",
+                "address": "55 Albert Street, Stratford, ON N5A 3K2, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.980671,
+                    43.370435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Gifts",
+                "businessname": "The Barkery! The Healthy Bakery For Dogs",
+                "address1": "130 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1X1",
+                "phone": "519.273.6311",
+                "textboxcopy": "Welcome to Stratford! Be sure to drop by the store and pick up some tasty handmade, all natural, human grade treats for your dog! We only use spices and natural colours for our treats! We've been the Bark of the Town since 2001!",
+                "email": "stratfordbarkery@gmail.com",
+                "website": "http://www.thebarkery.ca",
+                "address": "130 Downie Street, Stratford, ON N5A 1W8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.98111703000001,
+                    43.368514945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Fashion",
+                "businessname": "DISTILL GALLERY",
+                "address1": "53 Market Place",
+                "city": "Stratford ON",
+                "postalcode": "N5A1A4",
+                "phone": "519.814.9600",
+                "textboxcopy": "Established in 2003, Distill proudly shows well-crafted handmade Canadian designs. The collection includes ethically made and artistic fashions, imaginative jewellery, unique curated home décor, pottery, and textiles.",
+                "email": "info@distillgallery.com",
+                "website": "http://distillgallery.com",
+                "address": "53 Market Place, Stratford, ON N5A 1A4, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981814,
+                    43.369698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "type": "Fashion",
+                "businessname": "Danielle O'Connor Jewellery",
+                "address1": "96 Downie Street",
+                "city": "Stratford ON",
+                "postalcode": "N5A 1W8",
+                "phone": "548.585.0007",
+                "textboxcopy": "Canadian jewellery designer located across from the Avon Theatre. Specializing in hand made one of a kind jewellery, custom jewellery design, repairs, luxurious bath and body product and unique giftware. A popular destination for Stratford visitors.",
+                "email": "danielleoconnorjewellery@yahoo.ca",
+                "website": "http://www.danielleoconnorjewellery.com",
+                "address": "96 Downie Street, Stratford, ON N5A 1W8, Canada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -80.981438,
+                    43.3692672
+                ]
+            }
+        }
+    ]
+}
